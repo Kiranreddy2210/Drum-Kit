@@ -9,11 +9,11 @@ This project was built to practice DOM manipulation, event listeners, and JavaSc
 
 🛠️ Built With
 
-HTML5 – Structure of the page
+HTML – Structure of the page
 
-CSS3 – Styling for layout and design
+CSS – Styling for layout and design
 
-JavaScript (ES6) – Functionality for sound and interaction
+JavaScript – Functionality for sound and interaction
 
 
 🚀 Features
